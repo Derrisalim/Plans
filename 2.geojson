@@ -1,0 +1,88 @@
+{
+ "currentVersion": 10.8,
+ "id": 7,
+ "name": "Regions",
+ "type": "Group Layer",
+ "description": "",
+ "geometryType": null,
+ "copyrightText": "",
+ "parentLayer": {
+  "id": 1,
+  "name": "Base Maps"
+ },
+ "subLayers": [
+  {
+   "id": 8,
+   "name": "Bahrain"
+  },
+  {
+   "id": 13,
+   "name": "Oman"
+  },
+  {
+   "id": 21,
+   "name": "Qatar"
+  },
+  {
+   "id": 28,
+   "name": "Saudi Arabia"
+  },
+  {
+   "id": 36,
+   "name": "United Arab Emirates"
+  },
+  {
+   "id": 43,
+   "name": "Yemen "
+  }
+ ],
+ "minScale": 0,
+ "maxScale": 0,
+ "defaultVisibility": false,
+ "extent": {
+  "xmin": 34.49430400015001,
+  "ymin": 12.108193999569608,
+  "xmax": 59.83930599986138,
+  "ymax": 32.27078200001773,
+  "spatialReference": {
+   "wkid": 4326,
+   "latestWkid": 4326
+  }
+ },
+ "hasAttachments": false,
+ "htmlPopupType": "esriServerHTMLPopupTypeNone",
+ "displayField": "",
+ "typeIdField": null,
+ "subtypeFieldName": null,
+ "subtypeField": null,
+ "defaultSubtypeCode": null,
+ "fields": null,
+ "geometryField": {},
+ "indexes": [],
+ "subtypes": [],
+ "relationships": [],
+ "canModifyLayer": false,
+ "canScaleSymbols": false,
+ "hasLabels": false,
+ "capabilities": "Map,Query",
+ "supportsStatistics": false,
+ "supportsAdvancedQueries": false,
+ "supportedQueryFormats": "JSON, geoJSON",
+ "isDataVersioned": false,
+ "ownershipBasedAccessControlForFeatures": {"allowOthersToQuery": true},
+ "useStandardizedQueries": true,
+ "advancedQueryCapabilities": {
+  "useStandardizedQueries": true,
+  "supportsStatistics": false,
+  "supportsHavingClause": false,
+  "supportsCountDistinct": false,
+  "supportsOrderBy": false,
+  "supportsDistinct": false,
+  "supportsPagination": false,
+  "supportsTrueCurve": false,
+  "supportsReturningQueryExtent": true,
+  "supportsQueryWithDistance": true,
+  "supportsSqlExpression": false
+ },
+ "supportsCoordinatesQuantization": true
+}
